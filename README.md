@@ -6,7 +6,7 @@ This util will set correct arch for each configuration:
 * (Release|AddHoc|AppStore) iPhone will use fat arch `armv7+arm64`
 * Debug iPhone will use `armv7` only
 
-Unstructions
+Instructions
 ------------
 
 Build the solution first. You will get `Csproj.exe` inside your output dir. Run util as follow:  
